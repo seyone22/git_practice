@@ -1,0 +1,1 @@
+Hello, world! I am seyone. I am **trying** to teach git?!!!
