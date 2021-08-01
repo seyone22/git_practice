@@ -1,1 +1,3 @@
-Hello, world! I am seyone. I am **trying** to teach git?!!!
+I am seyone. I am **trying** to teach git?!!!
+
+Hello, world! 
